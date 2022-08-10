@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    background: #c9b69f;
+}
+
+
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.headerNav{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+
+.headerNavLink{
+    cursor: pointer;
+}

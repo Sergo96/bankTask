@@ -1,0 +1,15 @@
+.upperComponent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+.upperComponentTitle{
+    line-height: 48px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+
+

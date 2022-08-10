@@ -1,0 +1,1 @@
+export { UpperComponent } from "./UpperComponent";

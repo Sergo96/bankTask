@@ -1,0 +1,22 @@
+.mainCurrencies{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 25px;
+}
+
+.currencyName {
+    display: flex;
+    justify-content: space-between;
+    color: #0b1f35;
+    font-size: 18px;
+
+}
+
+.value{
+    line-height: 22px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #0b1f35;
+    margin-left: 35px;
+}

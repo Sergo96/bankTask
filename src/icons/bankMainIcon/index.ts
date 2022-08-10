@@ -1,0 +1,1 @@
+export { BankMainIcon } from "./BankMainIcon";
